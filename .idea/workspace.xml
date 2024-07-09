@@ -21,7 +21,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f98ae6e-72d5-4645-bbbc-de5dec58ce8c" name="Changes" comment="добавлены заготовки для первого фрагмента" />
+    <list default="true" id="4f98ae6e-72d5-4645-bbbc-de5dec58ce8c" name="Changes" comment="исправление и начало работы над кардАдаптером">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/projectsummerpractice/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/projectsummerpractice/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile_card.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile_card.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720536264178</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="исправление и начало работы над кардАдаптером">
+      <option name="closed" value="true" />
+      <created>1720536647443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720536647443</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +255,7 @@
     <MESSAGE value="empty project" />
     <MESSAGE value="добавлены заготовки для первого фрагмента" />
     <MESSAGE value="добавлены models" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлены models" />
+    <MESSAGE value="исправление и начало работы над кардАдаптером" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправление и начало работы над кардАдаптером" />
   </component>
 </project>
