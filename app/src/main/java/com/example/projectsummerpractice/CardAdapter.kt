@@ -1,7 +1,5 @@
 package com.example.projectsummerpractice
 
-package com.example.kartochki
-
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
