@@ -1,4 +1,4 @@
-package com.example.projectsummerpractice.Models
+package com.example.projectsummerpractice
 
 class User {
     var userId: String? = null
