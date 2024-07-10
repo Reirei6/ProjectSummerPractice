@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Kartochki</string>
+    <string name="app_name">Домино</string>
     <string name="menu_main">Главная</string>
     <string name="menu_search">Поиск</string>
     <string name="menu_like">Избранное</string>
